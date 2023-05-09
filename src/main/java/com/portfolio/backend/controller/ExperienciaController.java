@@ -14,11 +14,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-//Éste CORS es para trabajo local:
-//@CrossOrigin(origins = "http://localhost:4200")
 
 //Éste CORS es para aceptar el front de Firebase:
-@CrossOrigin(origins = "https://portfolio-5e022.web.app")
+@CrossOrigin(origins = "https://segunda-front.web.app/")
 
 public class ExperienciaController {
 
