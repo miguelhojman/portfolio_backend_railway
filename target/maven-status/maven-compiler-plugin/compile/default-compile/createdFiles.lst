@@ -19,7 +19,6 @@ com\portfolio\backend\service\IPersonaService.class
 com\portfolio\backend\service\IExperienciaService.class
 com\portfolio\backend\controller\EducacionController.class
 com\portfolio\backend\service\EducacionService.class
-com\portfolio\backend\WebConfig.class
 com\portfolio\backend\service\ProyectoService.class
 com\portfolio\backend\repository\IHabilidadRepository.class
 com\portfolio\backend\service\IEducacionService.class
